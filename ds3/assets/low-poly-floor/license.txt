@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Tavern - Floor 1x1
+* source:	https://sketchfab.com/3d-models/the-tavern-floor-1x1-0be5574267e54a2190a78f3e7b279743
+* author:	François Espagnet (https://sketchfab.com/francoisespagnet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Tavern - Floor 1x1" (https://sketchfab.com/3d-models/the-tavern-floor-1x1-0be5574267e54a2190a78f3e7b279743) by François Espagnet (https://sketchfab.com/francoisespagnet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
