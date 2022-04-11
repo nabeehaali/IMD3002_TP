@@ -25,7 +25,6 @@ cmds.intSliderGrp('Vine', label='Vine Length', min=1, max=3)
 
 cmds.text(label='Decoration Settings:')
 
-#cmds.rowColumnLayout(nc=3)
 cmds.checkBox('Fencing', label='Include Fencing')
 cmds.checkBox('Sunflowers', label='Include Sunflowers')
 cmds.checkBox('Daisies', label='Include Daisies')
@@ -602,15 +601,21 @@ def generateGarden(sentence):
     #check if sunflowers are selected
     if (cmds.checkBox('Sunflowers', query=True, value=True) == True):
         sunflowers = generateSunflowers(width, height)
+        cmds.select('sunflower*')
+        cmds.group(n='sunflowers')
         
     #check if daisies are selected
     if (cmds.checkBox('Daisies', query=True, value=True) == True):
         daisies = generateDaisies(width, height)
+        cmds.select('daisy*')
+        cmds.group(n='daisies')
         
     #ground & grass
     generateGrasslands(width, height)
+    cmds.select('grassPatch*')
+    cmds.group(n='grass')
     
-    #tree
+    #gazebo
     generateGazebo()
     
     #group everything together
