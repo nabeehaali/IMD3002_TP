@@ -17,5 +17,5 @@ This was completed as part of the IMD3002 Term Project. Our task was to procedur
 ## Members and Roles
 | Name  | Role |
 | ------------- | ------------- |
-| :woman_technologist: Nabeeha Ali  | Developer, 3D Modeller  |
-| :woman_technologist: Amy Truong  | Developer, 3D Modeller  |
+| :woman_technologist: Nabeeha Ali  | Developer, 3D Modeller (Fence, Gazebo, Vines)  |
+| :woman_technologist: Amy Truong  | Developer, 3D Modeller (Grass, Plants) |
