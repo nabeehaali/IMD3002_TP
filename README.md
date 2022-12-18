@@ -1,4 +1,4 @@
-# Maya - Procedural Generated Garden
+# :sunflower: Maya - Procedural Generated Garden
 
 <img src=https://user-images.githubusercontent.com/47696964/165367639-a557a64b-3e72-4383-a7c2-82e9e227152e.jpg width=400> <img src=https://user-images.githubusercontent.com/47696964/165367776-e0c2846e-efce-4c06-b862-c298551a84b5.jpg width=400>
 
